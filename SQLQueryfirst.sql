@@ -1,6 +1,6 @@
-Create Database DepartmentInfoDb
+Create Database DepartmentDb
 
-Use DepartmentInfoDb
+Use DepartmentDb
 
 Create Table Departments
 (
