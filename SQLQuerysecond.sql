@@ -1,7 +1,7 @@
 Create Database BrandStoreDb
 
 Use BrandStoreDb
-drop table Phones
+
 Create Table Brands
 (
 	Id int identity Primary Key,
